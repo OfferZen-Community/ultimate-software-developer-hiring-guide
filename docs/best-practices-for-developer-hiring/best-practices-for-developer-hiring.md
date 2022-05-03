@@ -1,5 +1,5 @@
 ---
-description: A curated finance guide brought to you by OfferZen in partnership with Investec.
+description: The ultimate tech hiring guide, brought to you by OfferZen.
 id: best-practices-for-developer-hiring
 sidebar_position: 1
 ---
@@ -17,4 +17,4 @@ As a start, here are general developer hiring tips to keep in mind:
 * **Be structured**: The interview process is a pretty big time investment from both sides, so make the most of it by having a structured agenda for what you’re hoping to accomplish. Everyone involved should know what their roles are. 
 * **Be transparent:** Also explain what to expect to the candidate from the outset — developers value role and process transparency above all else in a hiring process. Read more in our 2022 hiring reports for the [Netherlands](https://www.offerzen.com/resources/software-developer-netherlands-hiring-report) and [South Africa](https://www.offerzen.com/resources/software-developer-south-africa-hiring-report).
 
-Next, you need to set up your scorecard and gain a better understanding of the role.
+Next, you need to set up your scorecard.

@@ -1,5 +1,5 @@
 ---
-description: A curated finance guide brought to you by OfferZen in partnership with Investec.
+description: The ultimate tech hiring guide, brought to you by OfferZen.
 id: about-offerzen
 sidebar_position: 2
 ---

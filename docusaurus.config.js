@@ -41,7 +41,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Ultimarte Software Developer Hiring Guide',
+        title: 'Ultimate Software Developer Hiring Guide',
         logo: {
           alt: 'OfferZen Logo',
           src: 'img/logo.png',

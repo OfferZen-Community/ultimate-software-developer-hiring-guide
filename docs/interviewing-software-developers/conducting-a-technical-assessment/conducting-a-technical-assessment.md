@@ -1,7 +1,7 @@
 ---
 description: The ultimate tech hiring guide, brought to you by OfferZen.
 id: conducting-a-technical-assessment
-sidebar_position: 4
+sidebar_position: 5
 ---
 # Conducting a technical assessment
 

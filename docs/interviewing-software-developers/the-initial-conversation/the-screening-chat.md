@@ -1,7 +1,7 @@
 ---
 description: The ultimate tech hiring guide, brought to you by OfferZen.
 id: the-screening-chat
-sidebar_position: 2
+sidebar_position: 3
 ---
 # The screening chat
 

@@ -1,7 +1,7 @@
 ---
 description: The ultimate tech hiring guide, brought to you by OfferZen.
 id: the-initial-conversation
-sidebar_position: 1
+sidebar_position: 2
 ---
 # The initial conversation
 

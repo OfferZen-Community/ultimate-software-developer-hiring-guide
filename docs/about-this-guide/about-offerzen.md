@@ -13,4 +13,4 @@ With the help of these insights, we’ve helped over 2 000 companies across Euro
 
 # Who is this guide for?
 
-This guide is intended for every person involved in the process of hiring developers, whether you’re an internal recruiter looking to reach out to candidates, a technical manager looking for the best method to assess developers’ skills, or whether you need to design an effective overarching hiring process from scratch. :)
+This guide is intended for every person involved in the process of hiring developers, whether you’re an internal recruiter looking to reach out to candidates, a technical manager looking for the best method to assess developers’ skills, or whether you need to design an effective overarching hiring process from scratch.

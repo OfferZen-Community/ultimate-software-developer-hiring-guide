@@ -49,7 +49,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'about/about-intro',
+            docId: 'about-this-guide/about-offerzen',
             position: 'left',
             label: 'The Guide',
           },

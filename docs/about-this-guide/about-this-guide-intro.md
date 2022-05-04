@@ -2,6 +2,7 @@
 description: The ultimate tech hiring guide, brought to you by OfferZen.
 id: about-this-guide-intro
 sidebar_position: 1
+slug: /
 ---
 # About this guide
 

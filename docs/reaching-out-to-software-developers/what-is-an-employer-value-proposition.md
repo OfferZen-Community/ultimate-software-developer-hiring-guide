@@ -13,4 +13,4 @@ It is explicitly different to your actual product. You can have an awesome produ
 * **Perks**, such as flexible hours or number of leave days
 * **Tech stack**
 * **Career development opportunities**
-* **Work content** — is it meaningful and aligned with a developer’s goals/interests? Keep in mind that developers often care deeply about how widely used and impactful your product is. test
+* **Work content** — is it meaningful and aligned with a developer’s goals/interests? Keep in mind that developers often care deeply about how widely used and impactful your product is.

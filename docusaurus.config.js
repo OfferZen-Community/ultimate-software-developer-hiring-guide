@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'offerzen', // Usually your GitHub org/user name.
   projectName: 'Developers Finance', // Usually your repo name.
-
   presets: [
     [
       'classic',
@@ -24,6 +23,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/OfferZen-Community/developers-finance',
+          routeBasePath: '/' //This makes the base URL at the directory root.
         },
         blog: {
           showReadingTime: true,
@@ -41,19 +41,18 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Ultimate Software Developer Hiring Guide',
+        //title: 'Ultimate Software Developer Hiring Guide', //If we need a title to show.
         logo: {
           alt: 'OfferZen Logo',
           src: 'img/logo.png',
+          href: 'https://www.offerzen.com'
         },
         items: [
           {
-            type: 'doc',
-            docId: 'about-this-guide/about-offerzen',
             position: 'left',
-            label: 'The Guide',
+            label: 'The Ultimate Hiring Guide',
+            to: '/', // Should be linked to home page
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/OfferZen-Community/developers-finance',
             label: 'GitHub',

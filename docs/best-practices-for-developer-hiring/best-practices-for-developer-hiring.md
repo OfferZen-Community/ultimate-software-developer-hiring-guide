@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: The best practices for developer hiring, that will set you up for success throughout the hiring process.
 id: best-practices-for-developer-hiring
 sidebar_position: 1
 ---

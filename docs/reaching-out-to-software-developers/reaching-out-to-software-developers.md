@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: How to put together your employer value proposition, and sending your first outreach message to capture a software developer's interest.
 id: reaching-out-to-software-developers
 sidebar_position: 1
 ---

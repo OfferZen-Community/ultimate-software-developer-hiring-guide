@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: How to conduct developer references, including example question to use when doing reference checks.
 id: doing-reference-checks
 sidebar_position: 1
 ---

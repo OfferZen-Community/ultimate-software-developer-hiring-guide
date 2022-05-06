@@ -50,7 +50,7 @@ const config = {
         items: [
           {
             position: 'left',
-            label: 'The Ultimate Hiring Guide',
+            label: 'The Ultimate Developer Hiring Guide',
             to: '/', // Should be linked to home page
           },
           {

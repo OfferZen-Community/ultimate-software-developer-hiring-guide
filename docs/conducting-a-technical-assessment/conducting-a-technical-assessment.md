@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: How to conduct technical assessments for developers, from the whiteboard interview and take-home assessments, to online coding assessments.
 id: conducting-a-technical-assessment
 sidebar_position: 1
 ---

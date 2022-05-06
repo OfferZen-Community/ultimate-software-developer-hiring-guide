@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: How to interview software developers, from the first screening call to setting up technical assessments.
 id: interviewing-software-developers
 sidebar_position: 1
 ---

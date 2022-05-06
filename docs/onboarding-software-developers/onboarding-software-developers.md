@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: How to approach onboarding software developers, and how to assess whether developer onboarding is going well.
 id: onboarding-software-developers
 sidebar_position: 1
 ---

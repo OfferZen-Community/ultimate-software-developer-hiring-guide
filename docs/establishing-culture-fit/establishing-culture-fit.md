@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: How to establish the culture and team fit of software developers.
 id: establishing-culture-fit
 sidebar_position: 1
 ---

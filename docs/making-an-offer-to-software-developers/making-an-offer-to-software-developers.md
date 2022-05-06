@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: How to navigate the process of making an offer to software developers, and what to do after the offer is signed.
 id: making-an-offer-to-software-developers
 sidebar_position: 1
 ---

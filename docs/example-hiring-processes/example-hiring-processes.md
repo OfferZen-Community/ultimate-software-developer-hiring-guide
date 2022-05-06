@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: Put together all the steps of your software developer hiring process, with our example hiring processes for a small startup as well as a larger company.
 id: example-hiring-processes
 sidebar_position: 1
 ---

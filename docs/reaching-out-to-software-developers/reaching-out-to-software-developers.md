@@ -15,7 +15,7 @@ Depending on how strong your brand is, the initial message could potentially be 
 
 :::info More resources
 
-Read more detail on [preparing to reach out to a candidate](https://www.offerzen.com/blog/tech-hiring-101-preparing-to-reach-out-to-a-candidate) here.
+Read more detail on **[preparing to reach out to a candidate](https://www.offerzen.com/blog/tech-hiring-101-preparing-to-reach-out-to-a-candidate)** here.
 
 :::
 
@@ -42,6 +42,6 @@ We have seen companies on OfferZen reach out in a couple of different ways, rang
 
 :::info More resources
 
-Read more detail about composing your [first message](https://www.offerzen.com/blog/tech-hiring-101-writing-the-first-message-to-a-candidate) to a candidate here.
+Read more detail about composing your **[first message](https://www.offerzen.com/blog/tech-hiring-101-writing-the-first-message-to-a-candidate)** to a candidate here.
 
 :::

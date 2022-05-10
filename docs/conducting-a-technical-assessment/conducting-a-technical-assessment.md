@@ -26,8 +26,11 @@ Keep in mind that developers rate irrelevant tech assessments as a top pet peeve
 
 :::info More resources
 
-Read more on this insight in the 2022 hiring reports for the [Netherlands](https://www.offerzen.com/resources/software-developer-netherlands-hiring-report) and [South Africa](https://www.offerzen.com/resources/software-developer-south-africa-hiring-report).
+Read more on this insight in the 2022 hiring reports for the **[Netherlands](https://www.offerzen.com/resources/software-developer-netherlands-hiring-report)** and **[South Africa](https://www.offerzen.com/resources/software-developer-south-africa-hiring-report)**.
 :::
+
+[![software-trends-south-africa-report](pathname:///img/assets/software-trends-south-africa-report.svg)](https://www.offerzen.com/resources/software-developer-south-africa-hiring-report) 
+[![software-trends-netherlands-report](pathname:///img/assets/software-trends-netherlands-report.svg)](https://www.offerzen.com/resources/software-developer-netherlands-hiring-report) 
 
 ## Technical interview
 
@@ -49,7 +52,7 @@ Remember that your goal should be to assess somebody’s potential rather than a
 
 :::info More resources
 
-If you would still like to carry out a remote whiteboard interview, you can use tools like [Miro](https://www.offerzen.com/companies/miro) or other online whiteboards. Read our [top tips on getting started with Miro here](https://www.offerzen.com/blog/10-tips-for-getting-started-with-miro)!
+If you would like to carry out a remote whiteboard interview, you can use tools like **[Miro](https://www.offerzen.com/companies/miro)** or other online whiteboards. Read our **[top tips on getting started with Miro here](https://www.offerzen.com/blog/10-tips-for-getting-started-with-miro)!**
 :::
 
 ## Take-home assessment
@@ -68,10 +71,10 @@ It’s worth noting that many developers rate take-home assessments as the most 
 
 :::info More resources
 
-Read more on these insights in our 2022 hiring reports for the [Netherlands](https://www.offerzen.com/resources/software-developer-netherlands-hiring-report) and [South Africa](https://www.offerzen.com/resources/software-developer-south-africa-hiring-report).
+Read more on these insights in our 2022 hiring reports for the **[Netherlands](https://www.offerzen.com/resources/software-developer-netherlands-hiring-report)** and **[South Africa](https://www.offerzen.com/resources/software-developer-south-africa-hiring-report)**.
 :::
 
-**Some good questions to ask in a technical discussion on a completed assignment include:**
+### Questions to ask when discussing a completed assignment
 
 * What tradeoffs did you make given you had limited time to complete the assignment?
 * How did you choose which areas to prioritise in the assessment?
@@ -88,9 +91,9 @@ On the other hand, this approach is quite impersonal. If you decide to include t
 
 Additionally, it’s worth mentioning that there will usually be costs involved in using an online code assessment service, either in the form of a subscription or per-use fee.
 
-**> **The automatic scoring systems that many of these online testing tools use often lack the ability to pick up on nuance, meaning that smart developers often don’t get results that reflect their true ability. This can be counteracted by making it part of your process for a human to review the submitted code.
+> The automatic scoring systems that many of these online testing tools use often lack the ability to pick up on nuance, meaning that smart developers often don’t get results that reflect their true ability. This can be counteracted by making it part of your process for a human to review the submitted code.
 
-**Here are a few platforms you could consider to conduct online assessments:**
+### Platforms you can use to conduct online coding assessments
 
 * [HackerRank](https://www.hackerrank.com/)
 * [Codility](https://www.codility.com/)
@@ -99,6 +102,17 @@ Additionally, it’s worth mentioning that there will usually be costs involved 
 * [Test4Geeks](https://tests4geeks.com/)
 * [InterviewZen](https://www.interviewzen.com/)
 * [IKM](https://www.ikmnet.com/)
+
+## Pair programming
+
+A pair programming assessment involves assigning somebody from your existing team to collaborate with the candidate to solve a single problem. This can happen remotely, or by physically sitting at the same workstation. 
+
+This technique can an extremely effective way to gauge a number of key metrics, from technical ability and problem solving skills, through to communication ability and collaboration. It does however come at a significant cost in terms of preparation and the involvement of multiple members of your existing team, so it’s not to be undertaken lightly.
+
+A common theme so far has been that briefing is critical to an effective technical assessment, and pair programming is no different. Well executed pair programming assessments will always be explicit up-front about the differentiation between the assessors and the people that the candidate will be programming with. 
+
+Poorly run pair programming sessions can easily result in a candidate being hesitant to explore all of the solutions at their disposal, which is understandable when you consider how easy it is to feel like the person sitting next to you is judging your every keystroke.
+
 
 ## No technical assessment
 

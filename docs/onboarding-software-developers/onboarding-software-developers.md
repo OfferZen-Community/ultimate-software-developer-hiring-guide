@@ -16,10 +16,10 @@ Here are some steps to an epic onboarding process. Bonus: you can do all of thes
 ## Make your new joiner feel welcome and connected
 
 * **Send a welcome gift:** There’s nothing like receiving a gift just for you. You can do the same for new joiners with a welcome pack that includes essentials to make them feel welcome.
-* **Be intentional about creating connection:** Nominate an onboarding buddy who will help answer questions, set the new joiner up, and generally be a ‘friendly face’ around the virtual office. In fact, you can have separate onboarding buddies for the role, and for your company culture. Read more about our [onboarding buddy system here](https://www.offerzen.com/blog/onboarding-buddies-how-we-help-new-team-members-level-up).
+* **Be intentional about creating connection:** Nominate an onboarding buddy who will help answer questions, set the new joiner up, and generally be a ‘friendly face’ around the virtual office. In fact, you can have separate onboarding buddies for the role, and for your company culture. Read more about our **[onboarding buddy system here](https://www.offerzen.com/blog/onboarding-buddies-how-we-help-new-team-members-level-up).**
 * **Share key milestones:** Celebrate important milestones your new joiner has reached, such as their 1 month check-in, or their first meaningful contribution.
 * **Invite them to social channels:** Have them join a social club at the company (e.g. online gaming club, board game club, book club, meditation circle).
-* **Have agendaless meetings:** [Agendaless meetings](https://www.offerzen.com/blog/4-ways-luno-fosters-human-connection-fully-remote-team) are a great way to get the team to check in with each other and connect outside of work-related things.
+* **Have agendaless meetings:** **[Agendaless meetings](https://www.offerzen.com/blog/4-ways-luno-fosters-human-connection-fully-remote-team)** are a great way to get the team to check in with each other and connect outside of work-related things.
 
 
 ## Help your new joiner feel confident in their role
@@ -34,12 +34,12 @@ Here are some steps to an epic onboarding process. Bonus: you can do all of thes
 
 :::info More resources
 
-Read more about [remote onboarding essentials here](https://www.offerzen.com/blog/4-remote-onboarding-essentials).
+Read more about **[remote onboarding essentials here](https://www.offerzen.com/blog/4-remote-onboarding-essentials).**
 :::
 
 :::tip Pro tip
 
-When onboarding software developers, it’s useful to remind them of the [Kubler-Ross Change Curve](https://www.cleverism.com/understanding-kubler-ross-change-curve/). This boils down to the following: Since they are going through a massive change, their emotional state and performance will go through a cycle – that’s normal! 
+When onboarding software developers, it’s useful to remind them of the **[Kubler-Ross Change Curve](https://www.cleverism.com/understanding-kubler-ross-change-curve/).** This boils down to the following: Since they are going through a massive change, their emotional state and performance will go through a cycle – that’s normal! 
 
 ::: 
 
@@ -67,7 +67,7 @@ If you’re an engineering manager, here are some useful questions to ask yourse
 
 ### Inclusion
 
-* Are they able to receive and process feedback while seeing the benefits of it? (or do they get defensive?)
+* Are they able to receive and process feedback while seeing the benefits of it? 
 * Is the team equipped to give good feedback?
 * Are they able to articulate and share with you their feelings about their new role?
 * Are they feeling positive about the team?
@@ -83,5 +83,5 @@ Lastly, offering good mentorship to your new joiners is super important, and is 
 
 :::info More resources
 
-Read more on the steps to set up a sustainable mentoring programme [here](https://www.offerzen.com/blog/7-steps-to-a-sustainable-mentoring-programme).
+Read more on the steps to set up a sustainable mentoring programme **[here](https://www.offerzen.com/blog/7-steps-to-a-sustainable-mentoring-programme).**
 :::

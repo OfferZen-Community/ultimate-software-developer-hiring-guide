@@ -1,18 +1,17 @@
 ---
 description: How to establish the culture and team fit of software developers.
-id: establishing-culture-fit
+id: establishing-culture-add
 sidebar_position: 1
 ---
-# Establishing culture fit
+# Establishing culture add
 
 Performance metrics, sales figures and stock prices all fluctuate, but at the end of the day, the one differentiating factor that you have as a company is your culture. Your culture is the set of values that determine how people at your company work together.
 
 As companies grow, they tend to get better at explaining their own cultures, but in the beginning, when you’re still figuring things out, it often comes down to unwritten rules and implicit patterns of doing things. 
 
-Because of this ephemeral nature, it can be hard to ensure that new hires align with and augment your existing culture. This is why it’s so incredibly important to have a method in place where you try and tease out the values and motivations of people you’re looking to employ. 
+Because of this ephemeral nature, it can be hard to ensure that new hires augment your existing culture. This is why it’s so incredibly important to have a method in place where you try and tease out the values and motivations of people you’re looking to employ, and establish whether they'll add to your culture.
 
 You can do this in an interview setting in a few different ways:
-
 
 * Conduct a **structured interview **to establish whether the candidate will add to your culture. 
 * Have the candidate **meet the team**
@@ -24,18 +23,11 @@ You can do this in an interview setting in a few different ways:
 
 A formal structured interview can establish whether the candidate’s values will add to your company’s values and mission.
 
-The easiest way to get answers is to ask questions, you just need to make sure that you’re asking the right ones. 
-
 **A few good questions to establish whether the candidate adds to your culture:**
 
 
 * Can you relate a specific instance in your career where you collaborated across different teams? 
-
-This is a useful question to ask if cross-team collaboration is central to your culture.
-
-
-
-* Think back to one of the most energy-depleting periods in your current or most recent position. What was going on? How did you respond to it? What was the outcome?
+* Think back to one of the most energy-depleting periods in your current or most recent position. How did you respond to it? What was the outcome?
 * What attributes do you look for in a company when applying for a position?
 * What environment helps you do your best work, and how could a manager support you in this?
 
@@ -68,19 +60,22 @@ This can come at a pretty steep cost in terms of both time, planning and dedicat
 
 :::info Get your template
 
-Read our detailed guide on designing a good simulation day [here](https://www.offerzen.com/blog/how-offerzen-runs-simulation-days-to-grow-an-epic-team) — and [download a template here](https://docs.google.com/document/d/1E6O6fkLL_zStDfb79-QKvoZKxWj86X_sdTqMWfqnkoA/copy).
+Read our detailed guide on designing a good simulation day **[here](https://www.offerzen.com/blog/how-offerzen-runs-simulation-days-to-grow-an-epic-team)** — and **[download a template here](https://docs.google.com/document/d/1E6O6fkLL_zStDfb79-QKvoZKxWj86X_sdTqMWfqnkoA/copy).**
 :::
+
+[![simulation-day](pathname:///img/assets/simulation-day.svg)](https://www.offerzen.com/blog/how-offerzen-runs-simulation-days-to-grow-an-epic-team) 
+
 
 ## Founder chat
 
 While a company’s culture cannot be created overnight by any single person, the leaders and founders have the most influence in setting the tone and deciding on the direction that it takes. Every hire that you make shapes this fledgling culture, doubly so in a company’s early stages. 
 
-In order to be able to make informed decisions about who should be allowed to influence this growth, founders should be talking to every new hire.
+In order to be able to make informed decisions about who should influence this growth, founders should be talking to every new hire.
 
 As important as this discussion is as an assessment tool, a culture is made from the values of more than just the founders, so it’s important to be cognisant of just how much stock you’re putting in just one or two people’s opinions when doing something like this. 
 
-A pretty bad situation would be one where you’ve hired a number of people and the only thing that they have in common is the shared trait of “well the founders liked them”, so if you’re able to diversify the number of people you get input from, you should definitely do so.
+A pretty bad situation would be one where you’ve hired a number of people and the only thing that they have in common is the shared trait of “well the founders liked them”. If you’re able to diversify the number of people you get input from, you should definitely do so.
 
 Once your team and hiring process start to scale significantly, it can be very easy for a founder’s limited availability to become a bottleneck. We often see this happening around the 50 hire mark, however we’ve seen examples of companies where the founders personally chat with everyone well past hire number one hundred. 
 
-If this situation arises, keep in mind that there are other options available outside of shepherding two people into a coffee shop booth; tools like Skype or Google Hangouts can make it a lot easier to fit meetings like these into people's schedules.
+If this situation arises, keep in mind that there are other options available outside of shepherding two people into a coffee shop booth; remote tools like Zoom or Google Hangouts can make it a lot easier to fit meetings like these into people's schedules.

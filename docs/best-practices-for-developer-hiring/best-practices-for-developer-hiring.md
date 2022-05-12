@@ -35,7 +35,6 @@ A scorecard typically consists of a few key components, including:
 :::info Get your template
 
 Read more details on how to set up your scorecard **[here](https://www.offerzen.com/blog/how-to-create-a-scorecard-for-a-new-role)** — and get your **[downloadable template](https://docs.google.com/document/d/1Nf6PhUQdeCjv9l4f1YCUojNNDU24A_1zxQvedo5BCZg/copy)!**
-
 :::
 
-[![setting-up-a-scorecard](pathname:///img/assets/setting-up-a-scorecard.svg)](https://www.offerzen.com/blog/how-to-create-a-scorecard-for-a-new-role) 
+[![setting-up-a-role-scorecard](pathname:///img/assets/setting-up-a-role-scorecard.png)](https://www.offerzen.com/blog/how-to-create-a-scorecard-for-a-new-role) 

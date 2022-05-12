@@ -29,9 +29,6 @@ Keep in mind that developers rate irrelevant tech assessments as a top pet peeve
 Read more on this insight in the 2022 hiring reports for the **[Netherlands](https://www.offerzen.com/resources/software-developer-netherlands-hiring-report)** and **[South Africa](https://www.offerzen.com/resources/software-developer-south-africa-hiring-report)**.
 :::
 
-[![software-trends-south-africa-report](pathname:///img/assets/software-trends-south-africa-report.svg)](https://www.offerzen.com/resources/software-developer-south-africa-hiring-report) 
-[![software-trends-netherlands-report](pathname:///img/assets/software-trends-netherlands-report.svg)](https://www.offerzen.com/resources/software-developer-netherlands-hiring-report) 
-
 ## Technical interview
 
 A technical interview aims to assess the depth of the candidate’s knowledge about a particular technical skill. It is potentially the most abstract of the options available to you when looking to assess technical ability. While it can be the most convenient from a candidate experience perspective, it’s also extremely reliant on the person running the interview being highly technical themselves.

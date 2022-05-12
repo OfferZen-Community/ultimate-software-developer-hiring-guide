@@ -9,7 +9,8 @@ Now, how to tie together all the steps above? Your process might differ dependin
 
 ## A hiring process for a smaller startup
 
-![hiring-process-small-startup](pathname:///img/assets/hiring-process-smaller-startup.svg)
+![hiring-process-small-startup](pathname:///img/assets/hiring-process-small-startup.png)
+
 
 1. **Schedule the first appointment with the candidate.** Make sure that conversation isn’t only you asking them to answer questions for you. Spend time “selling the role” to the candidate and give them the chance to ask any questions that they want to.
 
@@ -23,7 +24,7 @@ Now, how to tie together all the steps above? Your process might differ dependin
 
 ## A hiring process for a larger company
 
-![hiring-process-larger-company](pathname:///img/assets/hiring-process-larger-company.svg)
+![hiring-process-large-company](pathname:///img/assets/hiring-process-large-company.png)
 
 1. **Schedule some time with the candidate for a quick phone call to introduce yourself and your company.** It’s important that you convey your employer value proposition during this call (why should somebody want to work at your company), while also clarifying any details about the candidate that weren’t obvious from their profiles.
 2. **If both parties are happy to proceed, assign the candidate an online technical test.** Make sure that they understand how to access the test, and are well briefed beforehand on any time limits or special criteria. Once they have submitted the test, get somebody from your dev team to check the results.

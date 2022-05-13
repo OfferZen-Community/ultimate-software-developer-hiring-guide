@@ -6,8 +6,6 @@ slug: /
 ---
 # About this guide
 
-![hiring-software-developers](pathname:///img/assets/hiring-software-developers.png)
-
 **Why have we put this resource together?** If you want to hire the best developers for your team, you need to understand what it’s like to be a software developer looking for a job in today’s tech hiring environment: It’s as important to know what kind of competition you’re up against as it’s crucial to consider what developers appreciate and what puts them off during interviews. 
 
 The goal of this guide is to help hiring professionals at tech companies attract and hire software developers the way they want to be hired, in order to build world-class tech teams.

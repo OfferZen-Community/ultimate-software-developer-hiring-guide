@@ -63,8 +63,6 @@ This can come at a pretty steep cost in terms of both time, planning and dedicat
 Read our detailed guide on designing a good simulation day **[here](https://www.offerzen.com/blog/how-offerzen-runs-simulation-days-to-grow-an-epic-team)** — and **[download a template here](https://docs.google.com/document/d/1E6O6fkLL_zStDfb79-QKvoZKxWj86X_sdTqMWfqnkoA/copy).**
 :::
 
-[![simulation-day](pathname:///img/assets/simulation-day.png)](https://www.offerzen.com/blog/how-offerzen-runs-simulation-days-to-grow-an-epic-team) 
-
 ## Founder chat
 
 While a company’s culture cannot be created overnight by any single person, the leaders and founders have the most influence in setting the tone and deciding on the direction that it takes. Every hire that you make shapes this fledgling culture, doubly so in a company’s early stages. 

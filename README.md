@@ -1,17 +1,12 @@
-# Welcome to the developers finance guide :)
+# Welcome to the Ultimate Software Developer Hiring Guide
+
 
 ### How this repo currently works/was set up
-- This is a copy of the [docusaurus.io](https://www.docusaurus.io) getting started template. You'll see that the code hasn't been cleaned up yet and some of the placeholder images are lying around
-- @suitophobia is the owner of a Vercel project that builds this repo to www.developerfinance.guide
+- This is a copy of the [docusaurus.io](https://www.docusaurus.io) getting started template. 
 
 ### Background
-Financial wellbeing is such a key element in anyone’s life and developers are not the exception.
-Developers are often faced with financial challenges - they might do contracting work as a side hustle, they may work remotely or they might not know the best way to start investing their money. 
-OfferZen's partnership with Investec gives us access to experts in the finance field, with a wealth of finance knowledge that we can tap into.
-We have created this finance guide because we think is will be valuable to developers to have access quality finance content. 
+The goal of this guide is to help hiring managers and hiring professionals at tech companies attract and hire software developers the way software developers want to be hired, so that they can build world-class tech teams.
 
-### How you can help
-Basically in every way possible. The team behind this are n00bs and haven't ever managed an open source repo before. Want to add contribution guidelines? Good idea. Maybe create a discussion, issue or card on the GitHub project? Go for it. The idea is that we build this together.
+As a developer job marketplace, we interact with hundreds of software developers and companies hiring software developers every day. This gives us first-hand experience in what developers are looking for in their careers and workplaces, and it shows us what makes companies win at building world-class tech teams. 
 
-Thanks so much for helping!
-
+We hope this guide will help companies build developer-centric hiring processes.

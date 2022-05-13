@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: How to navigate the process of making an offer to software developers, and what to do after the offer is signed.
 id: making-an-offer-to-software-developers
 sidebar_position: 1
 ---
@@ -65,7 +65,7 @@ Lines of communication need to be wide open at this stage of the process. If you
 
 It is a good idea to see what e-signing tools integrate with your Applicant Tracking System, if you’re making use of one, so that you can create and send your offers in one place.
 
-Some good e-signing tools to use include [DocuSign](https://www.docusign.com/) and [HelloSign](https://www.hellosign.com/) — there are many similar services available.
+Some good e-signing tools to use include **[DocuSign](https://www.docusign.com/)** and **[HelloSign](https://www.hellosign.com/)** — there are many similar services available.
 
 Whatever you use, make sure the offer is signed and dated by both parties!
 
@@ -91,7 +91,9 @@ Once the offer has been signed, don’t hang up your hiring hat just yet. There 
 
 ### Don’t go silent
 
-If you suddenly stop communicating between signing the offer and the candidate’s first day, you’re making an enormous mistake. In reality, your onboarding process should start the second that the contract is signed. According to our data, one third of candidates who drop out before starting their new jobs, cite a lack of communication or miscommunication as a major contributing factor. 
+If you suddenly stop communicating between signing the offer and the candidate’s first day, you’re making an enormous mistake. In reality, your onboarding process should start the second that the contract is signed. 
+
+> According to our data, one third of candidates who drop out before starting their new jobs, cite a lack of communication or miscommunication as a major contributing factor. 
 
 You just spent an enormous chunk of time assessing this person and convincing them to join your team, don’t leave the door open to counter offers and cold feet by leaving them out of the loop now.
 

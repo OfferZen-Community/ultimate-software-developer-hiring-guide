@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: The differences between a screening call and a sales chat, when interviewing software developers.
 id: the-initial-conversation
 sidebar_position: 1
 ---

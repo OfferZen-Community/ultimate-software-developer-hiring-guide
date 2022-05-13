@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: How to conduct developer references, including example question to use when doing reference checks.
 id: doing-reference-checks
 sidebar_position: 1
 ---
@@ -73,7 +73,9 @@ No matter which side of the aisle you’re on, an important consideration should
 
 Be sure to give people an adequate heads up as to why you’re running these potentially invasive background checks on them. Always provide an opportunity for the other person to be up-front about any irregularities that might come up.
 
-**In South Africa, we can recommend these services that perform background checks:**
+### In South Africa
+
+We can recommend these services that perform background checks in South Africa:
 
 * [MIE](https://www.mie.co.za/?utm_source=intercom&utm_medium=intercom&utm_campaign=_demand_platform_company-faqs_background-services)
 * [Nevetec](https://nevetec.co.za/?utm_source=intercom&utm_medium=intercom&utm_campaign=_demand_platform_company-faqs_background-services)
@@ -83,3 +85,10 @@ Be sure to give people an adequate heads up as to why you’re running these pot
 
 > Getting set up to do these yourself is cheaper and easier than you think. All you need to do is buy a fingerprint scanner, install some software and get somebody from your team to do a super short course from MIE.
 
+### In Europe
+
+All background checks conducted in Europe need to be GDPR compliant, or you risk being liable to breach of privacy. Data on candidates should only be collected to the extent that’s necessary. 
+
+It’s crucial to inform candidates of any background checks that are a part of your hiring process. The candidate will be your primary point of contact for the validation process. 
+
+You can familiarise yourself with the GDPR regulations **[here](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02016R0679-20160504&from=EN).** The specific laws and guidelines for employee background checks will differ depending on your country — be sure to do thorough research before proceeding with background checks. 

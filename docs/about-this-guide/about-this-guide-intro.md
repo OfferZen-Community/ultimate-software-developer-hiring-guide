@@ -1,5 +1,5 @@
 ---
-description: The ultimate tech hiring guide, brought to you by OfferZen.
+description: The ultimate software developer hiring guide, brought to you by OfferZen.
 id: about-this-guide-intro
 sidebar_position: 1
 slug: /
@@ -8,7 +8,7 @@ slug: /
 
 **Why have we put this resource together?** If you want to hire the best developers for your team, you need to understand what it’s like to be a software developer looking for a job in today’s tech hiring environment: It’s as important to know what kind of competition you’re up against as it’s crucial to consider what developers appreciate and what puts them off during interviews. 
 
-The goal of this guide is to help hiring managers and hiring professionals at tech companies attract and hire software developers the way software developers want to be hired, so that they can build world-class tech teams.
+The goal of this guide is to help hiring professionals at tech companies attract and hire software developers the way they want to be hired, in order to build world-class tech teams.
 
 **What’s happening in the tech hiring landscape?** Software has proven to be a formidable force. Even when entire industries had to fold, the global software engineering industry experienced unprecedented growth. There is vast funding in the tech space. A continuously growing number of industries is powered by tech, and requires new roles to support them. As a result, demand for developers continues to grow, and salaries — especially for seniors devs — are on the rise.
 
@@ -25,10 +25,21 @@ We hope this guide will help you build a developer-centric hiring process. After
 * Outreach
 * Initial conversation
 * Technical assessment 
-* Culture fit
-* Team fit
+* Establishing culture add
 * Checking references
 * Making an offer
 * Onboarding
 
 As a bonus, you will find example hiring processes for both a smaller startup, as well as a larger company at the end of this guide. 
+
+## About OfferZen
+
+OfferZen is a community-first job marketplace that helps companies accelerate their developer hiring. But this effort actually encompasses a much wider mission: To help developers and their teams thrive in the tech ecosystem. 
+
+As a developer job marketplace, we interact with hundreds of software developers and companies hiring software developers every day. This gives us first-hand experience in what developers are looking for in their careers and workplaces, and it shows us what makes companies win at building world-class tech teams. 
+
+With the help of these insights, we’ve helped over 2 000 companies across Europe and Africa attract and retain developers. 
+
+## Who is this guide for?
+
+This guide is intended for every person involved in the process of hiring developers, whether you’re an internal recruiter looking to reach out to candidates, a technical manager looking for the best method to assess developers’ skills, or whether you need to design an effective overarching hiring process from scratch.

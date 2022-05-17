@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Ultimate Software Developer Hiring Guide',
-  tagline: 'A curated finance guide brought to you by OfferZen in partnership with Investec',
-  url: 'https://www.developersfinance.guide',
+  tagline: 'The Ultimate Softare Developer Finance Guide',
+  url: 'https://www.offerzen.com/guides/developer-hiring',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'offerzen', // Usually your GitHub org/user name.
-  projectName: 'Developers Finance', // Usually your repo name.
+  projectName: 'guides-developer-hiring', // Usually your repo name.
   presets: [
     [
       'classic',
@@ -22,13 +22,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/OfferZen-Community/developers-finance',
+          //editUrl: 'https://github.com/offerzen/guides-developer-hiring',
           routeBasePath: '/' //This makes the base URL at the directory root.
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/OfferZen-Community/developers-finance',
+            'https://github.com/offerzen/guides-developer-hiring',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -53,11 +53,11 @@ const config = {
             label: 'The Ultimate Developer Hiring Guide',
             to: '/', // Should be linked to home page
           },
-          {
-            href: 'https://github.com/OfferZen-Community/developers-finance',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/offerzen/guides-developer-hiring',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -67,13 +67,13 @@ const config = {
             title: 'Get Involved',
             items: [
               {
-                label: 'Contribute',
-                href: 'https://github.com/OfferZen-Community/developers-finance',
+                label: 'Suggest an edit',
+                href: 'mailto:marketing@offerzen.com?subject=Hiring%20Guide%20Feedback',
               },
-              {
-                label: 'Make a suggestion',
-                href: 'https://8malmkzgvs8.typeform.com/to/oLVWxa8r?',
-              },
+              // {
+              //   label: 'Make a suggestion',
+              //   href: 'https://8malmkzgvs8.typeform.com/to/oLVWxa8r?',
+              // },
             ],
           },
           {
@@ -83,10 +83,10 @@ const config = {
                 label: 'OfferZen Community',
                 href: 'https://www.offerzen.com/community',
               },
-              {
-                label: 'Sign Up For Programmable Banking',
-                href: 'https://www.investec.com/en_za/banking/programmable-banking.html',
-              },
+              // {
+              //   label: 'Sign Up For Programmable Banking',
+              //   href: 'https://www.investec.com/en_za/banking/programmable-banking.html',
+              // },
             ],
           },
           {
@@ -96,10 +96,10 @@ const config = {
                 label: 'Blog',
                 href: 'https://www.offerzen.com/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/OfferZen-Community/developers-finance',
-              },
+              // {
+              //   label: 'GitHub',
+              //   href: 'https://github.com/OfferZen-Community/developers-finance',
+              // },
             ],
           },
         ],

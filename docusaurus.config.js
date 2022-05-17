@@ -22,7 +22,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          //editUrl: 'https://github.com/offerzen/guides-developer-hiring',
+          //editUrl: 'https://github.com/offerzen/guides-developer-hiring', //Removing this takes away the edit button on individual pages.
           routeBasePath: '/' //This makes the base URL at the directory root.
         },
         blog: {
